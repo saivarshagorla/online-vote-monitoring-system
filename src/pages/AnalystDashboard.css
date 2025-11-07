@@ -1,0 +1,27 @@
+.analyst-container {
+  padding: 40px;
+  background-color: #f9fafb;
+  height: 80vh;
+}
+
+.analyst-title {
+  text-align: center;
+  font-size: 2.2rem;
+  color: #6d28d9;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.chart-card {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.chart-card h2 {
+  color: #1f2937;
+  margin-bottom: 20px;
+}
